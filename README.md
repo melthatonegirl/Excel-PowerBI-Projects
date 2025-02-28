@@ -17,7 +17,7 @@ This project analyzes an eCommerce dataset to identify key sales trends, custome
 ### ** Key Insights & Findings**  
 - Sales Trends: Sales peaked in May ($40K) and April ($40K), while March had the lowest sales (~$8K), suggesting seasonality or promotional impacts.
 - Top Categories: Beauty ($82K) and Sports ($72K) had the highest total sales, while Clothing ($52K) had the lowest.
-- Customer Demographics: Age group 26-35 contributed the most profit (~$26.35K, 27.7%), followed by 36-45 (~$23.97K, 25.2%), while 18-25 had the lowest profit share (~$8.9K, 9.36%).
+- Customer Demographics: Age group 26-35 contributed the most profit (~$26.35K, 27.7%), followed by 36-45 (~$23.97K, 25.2%), while 18-25 had the lowest profit share (~$8.9K, 9.36%) .
 - Profit Analysis: Beauty ($22K) and Sports ($21K) were the most profitable categories, while Clothing ($15K) had the lowest profit.
 - Profit Margins: Beauty and Sports had the highest profit margins (~22-23%), whereas Clothing had the lowest (~17.2%), indicating either lower markups or higher costs.
 
