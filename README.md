@@ -25,16 +25,16 @@ This project analyzes an eCommerce dataset to identify key sales trends, custome
 Here are some key visualizations from the project:  
 -  **Sales Trend Over Time** (Line Chart)  
 -  **Category Performance** (Bar Chart)  
-- **Sales by Location** (Pie/Donut Chart)  
-- **Profit Margin Distribution** (Histogram)  
+-  **Sales by Location** (Pie/Donut Chart)  
+-  **Profit Margin Distribution** (Histogram)  
 
 
 
 ### ** How to View the Dashboard**  
-1️⃣ Download the **[Excel file](https://github.com/melthatonegirl/Excel-PowerBI-Projects/blob/main/Melissa%20Mock%20Sales%20Data%20Interview%20excel.xlsx)** or **[Power BI report](https://github.com/melthatonegirl/Excel-PowerBI-Projects/blob/main/melissa%20interview%20eccommerce%20stuff.pbix)** from this repository.  
-2️⃣ Open the **Power BI file** to explore interactive dashboards.  
+1. Download the **[Excel file](https://github.com/melthatonegirl/Excel-PowerBI-Projects/blob/main/Melissa%20Mock%20Sales%20Data%20Interview%20excel.xlsx)** or **[Power BI report](https://github.com/melthatonegirl/Excel-PowerBI-Projects/blob/main/melissa%20interview%20eccommerce%20stuff.pbix)** from this repository.  
+2. Open the **Power BI file** to explore interactive dashboards.  
 
 ### ** Next Steps**  
-🔹 Enhance data cleaning processes using Power Query  
-🔹 Integrate SQL for more advanced data querying  
-🔹 Experiment with more complex Power BI DAX functions  
+* Enhance data cleaning processes using Power Query  
+* Integrate SQL for more advanced data querying  
+* Experiment with more complex Power BI DAX functions  
